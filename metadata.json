@@ -1,0 +1,5 @@
+{
+  "name": "ESA LaunchPad",
+  "description": "专为阿里云 ESA (边缘安全加速) 设计的零门槛边缘部署平台。通过可视化配置和 AI 辅助，引导用户从 GitHub 仓库到全球边缘节点的快速部署。",
+  "requestFramePermissions": []
+}
